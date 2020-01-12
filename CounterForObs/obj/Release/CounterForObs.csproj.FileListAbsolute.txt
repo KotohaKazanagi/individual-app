@@ -1,0 +1,9 @@
+D:\develop\visualstadio_work\CounterForObs\bin\Release\CounterForObs.exe.config
+D:\develop\visualstadio_work\CounterForObs\bin\Release\CounterForObs.exe
+D:\develop\visualstadio_work\CounterForObs\bin\Release\CounterForObs.pdb
+D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.CountingToolFunc.resources
+D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.Properties.Resources.resources
+D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.csproj.GenerateResource.cache
+D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.exe
+D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.pdb
+D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.csprojAssemblyReference.cache
