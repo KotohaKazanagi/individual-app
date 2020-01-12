@@ -11,10 +11,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * @author Kazanagi Kotoha
- * 2020/01/09
- * 数字をカウントするフォームアプリケーション
- * ver 0.1
+ * Copyright (c) 2020 Kazanagi Kotoha
+ * Released under the MIT license
+ * https://github.com/KotohaKazanagi/individual-app/blob/master/Licensed.txt
  */
 
 namespace CounterForObs

@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Copyright (c) 2020 Kazanagi Kotoha
+ * Released under the MIT license
+ * https://github.com/KotohaKazanagi/individual-app/blob/master/Licensed.txt
+ */
+
+
 namespace CounterForObs
 {
 	public static class AjustFormat

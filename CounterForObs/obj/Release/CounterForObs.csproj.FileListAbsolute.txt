@@ -6,4 +6,3 @@ D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.Properties.
 D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.csproj.GenerateResource.cache
 D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.exe
 D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.pdb
-D:\develop\visualstadio_work\CounterForObs\obj\Release\CounterForObs.csprojAssemblyReference.cache
